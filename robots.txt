@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ialyeleg.github.io/sitemap.ialyeleg.gz
+Sitemap: https://ialyeleg.github.io/app/sitemap.ialyeleg.gz
+Sitemap: https://ialyeleg.github.io/assets/sitemap.ialyeleg.gz
+Sitemap: https://ialyeleg.github.io/css/sitemap.ialyeleg.gz
+Sitemap: https://ialyeleg.github.io/data/sitemap.ialyeleg.gz
+Sitemap: https://ialyeleg.github.io/includes/sitemap.ialyeleg.gz
+Sitemap: https://ialyeleg.github.io/item/sitemap.ialyeleg.gz
+Sitemap: https://ialyeleg.github.io/src/sitemap.ialyeleg.gz
